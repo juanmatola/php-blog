@@ -1,5 +1,5 @@
 <?php
-// singleton igual que la connection
+// Singleton igual que la connection
 class UserRepository
 {
     private static $instance;

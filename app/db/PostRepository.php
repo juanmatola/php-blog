@@ -1,5 +1,6 @@
 <?php
 // Singleton
+// Solo cree estructura, no probe nada de aca tdv, capaz no funca
 class PostRepository
 {
     private static $instance;
